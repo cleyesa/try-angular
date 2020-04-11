@@ -1,0 +1,22 @@
+header{
+    text-align: center;
+    background-color: mediumseagreen;
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.pokemon-details{
+    width: 70%;
+    float: right;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.pokemon-search{
+    width: 30%;
+    float: left;
+    background-color: forestgreen;
+    padding: 10px;
+    box-sizing: border-box;
+}
